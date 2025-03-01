@@ -27,7 +27,7 @@ I am confident in working with a variety of technologies, but my skills include:
 - Fullstack development
 - Agile development
 - API's & Database management
-- SEO & accesibility
+- SEO & Accesibility
 
 ---
 
